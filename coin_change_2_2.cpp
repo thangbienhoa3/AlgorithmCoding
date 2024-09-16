@@ -6,7 +6,6 @@ using namespace std;
 int n;
 int a[100];
 int dp[100];
-int a,b,c;
 int main()
 {
     int s;
